@@ -12,8 +12,8 @@
     border: 1px solid black;
 }
 .nav-felipe{
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 18%;
+    margin-right: 18%;
     text-align: center;
     padding: 20px;
     background-color: #f5f5f5;
@@ -25,8 +25,8 @@
 
 .section-felipe{
     display: flex;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 18%;
+    margin-right: 18%;
     text-align: center;
     background-color: #f5f5f5;
     padding-bottom: 40px;
@@ -55,7 +55,7 @@
     margin-left: 10px;
     padding-right: 40px;
 }
-.aside-felipe h2{
+.aside-felipe h3{
     padding-top: 20px;
     padding-bottom: 50px;
 }
